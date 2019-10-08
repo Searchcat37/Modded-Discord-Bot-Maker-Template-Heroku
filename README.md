@@ -2,4 +2,4 @@
 
 Do NOT delete the files named t
 
-This is just made for Heroku hosting (heroku.com)
+This is just made for Heroku hosting ( heroku.com )
