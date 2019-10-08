@@ -1,3 +1,5 @@
 # Discord Bot maker upload to github
 
-do not delete the files named t
+Do NOT delete the files named t
+
+This is just made for Heroku hosting 
