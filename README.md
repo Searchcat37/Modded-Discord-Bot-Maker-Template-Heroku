@@ -1,6 +1,6 @@
 #  Discord Bot maker upload to github
 
-# Warning: you have to add and change files from Discord Bot Maker to get this to work properly!
+## Warning: you have to add and change files from Discord Bot Maker to get this to work properly!
 
 DO NOT delete the files named t
 
